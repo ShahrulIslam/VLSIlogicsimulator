@@ -1,0 +1,25 @@
+Input Vector:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx1xxxxxxxxxxxxxxxxx0x100000xxxxx
+Output Vector:
+xxxxxxxxxxxxxxxxx1xxxxxxxx
+
+Input Vector:
+1xxx11xx11xxxxx11xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0x010x00xx1x0
+Output Vector:
+xxxxxxxxxxx1xxxxxxxxxxxxxx
+
+Input Vector:
+x0xxxxxxxx0xxxxxxxxxxxx1xxxxxxxxxx0xxxxxxxxxxxxxx00001xxxxx1
+Output Vector:
+xxxxxx111xxxxxxxxx1xxx1111
+
+Input Vector:
+10x01xx01x1xxxxxxxxxxxx1xxxxxxxxxxxxxxx1xxxxxxxxx00001xxxxxx
+Output Vector:
+0x0x01xx1x11xxxxxx1xxx1111
+
+Input Vector:
+00xxxxxxxx0xxxxxxxxxxxx1xxxxxxxxxxxxxxxxxxxxxxxxx00001xxxxxx
+Output Vector:
+xxxxxx111xx0xxxxxx1xxx1111
+

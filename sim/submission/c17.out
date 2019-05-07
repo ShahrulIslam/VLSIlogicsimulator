@@ -1,0 +1,15 @@
+Input Vector:
+000xx
+Output Vector:
+0x
+
+Input Vector:
+x10xx
+Output Vector:
+11
+
+Input Vector:
+1x1xx
+Output Vector:
+1x
+
